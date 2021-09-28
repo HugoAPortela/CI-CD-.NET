@@ -116,7 +116,6 @@ Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 <!-- CONTACT -->
 ## Contato
 
-* Felipe Chagas - [@chagretes](https://www.linkedin.com/in/chagretes/) - felipe@chagas.top
 * [{entre chaves}](https://open.spotify.com/show/1ub9YZKamdMKdKbLia4YrX)
 <!-- ACKNOWLEDGEMENTS -->
 ## Bibliografia
